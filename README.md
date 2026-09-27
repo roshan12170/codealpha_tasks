@@ -1,5 +1,5 @@
 # codealpha_tasks
-# Iris Flower Prediction 🌸
+# Iris Flower Prediction 
 
 This project uses Machine Learning to predict the species of an Iris flower based on:
 
